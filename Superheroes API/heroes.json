@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Iron Man",
+    "age": 48,
+    "plannet": "Earth",
+    "weapons": "Smart Missiles"
+  },
+  {
+    "id": 2,
+    "name": "Spider Man",
+    "age": 28,
+    "plannet": "Earth",
+    "weapons": "Web Shooters"
+  },
+  {
+    "id": 3,
+    "name": "Hulk",
+    "age": 54,
+    "plannet": "Earth",
+    "weapons": "Physical strength"
+  },
+  {
+    "id": 4,
+    "name": "Thor",
+    "age": 48,
+    "plannet": "Asgard",
+    "weapons": "Stormbreaker"
+  },
+  {
+    "id": 5,
+    "name": "Black Panther",
+    "age": 38,
+    "plannet": "Wakanda",
+    "weapons": "Energy Dagger"
+  },
+  {
+    "id": 6,
+    "name": "Captain America",
+    "age": 117,
+    "plannet": "Earth",
+    "weapons": "Vibranium shield"
+  },
+  {
+    "id": 7,
+    "name": "Black Widow",
+    "age": 34,
+    "plannet": "Earth",
+    "weapons": "Widow's Batons"
+  },
+  {
+    "id": 8,
+    "name": "Doctor Strange",
+    "age": 36,
+    "plannet": "Earth",
+    "weapons": "Eye of Agamotto"
+  },
+  {
+    "id": 9,
+    "name": "Quicksilver",
+    "age": 17,
+    "plannet": "Earth",
+    "weapons": "Combatant"
+  },
+  {
+    "id": 10,
+    "name": "Scarlet Witc",
+    "age": 20,
+    "plannet": "Earth",
+    "weapons": "Telekinesis"
+  }
+]
